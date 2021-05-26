@@ -4,6 +4,8 @@ const text = 'what is this';
 text.wiw;
 
 
+console.log(this)
+
 // /* Your Code Here */
 
 // function createEmployeeRecord(infoArr) {
