@@ -1,7 +1,7 @@
 const wiw = function() { console.log(this) }
 const text = 'what is this';
 
-text.wiw;
+wiw.call(text);
 
 
 console.log(this)
