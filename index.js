@@ -3,6 +3,7 @@ const textObj = {hello: "world"}
 
 const ye = function(obj) {wiw.call(this)}
 
+wiw.call(this)
 ye(textObj)
 
 console.log('yess')
