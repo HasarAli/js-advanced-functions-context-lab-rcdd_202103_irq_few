@@ -1,4 +1,4 @@
-const wiw = function() { console.log(this.hello) }
+const wiw = function() { console.log(this['hello']) }
 const textObj = {hello: "world"}
 
 const ye = function(obj) {wiw.call(this)}
