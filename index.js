@@ -5,7 +5,7 @@ const ye = function(obj) {wiw.call(this)}
 
 ye(textObj)
 
-console.log(this)
+// console.log(this)
 
 // /* Your Code Here */
 
