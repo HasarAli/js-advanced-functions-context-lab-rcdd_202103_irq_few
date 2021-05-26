@@ -4,7 +4,7 @@ const text = 'what is this';
 text.wiw;
 
 
-console.log(this)
+console.log(hello)
 
 // /* Your Code Here */
 
